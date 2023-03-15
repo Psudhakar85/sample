@@ -1,0 +1,22 @@
+how to manage permissions and ownership for users,
+groups, and all others to resources such as directories and filies
+how to manage permissions and ownership for users,
+Managing access to resources is a fundamental task for sysadmins. 
+how to manage permissions and ownership for users,
+how how his responsibility consists of three components: identities, resources, and permissions. 
+This article covers several user, group, and file management commands to control access to resources. 
+The article uses a "How do I…?" format, and it assumes you have a few resources to work with. 
+Specifically,have the word have I cover the following topics
+Managing ownership and associated groups
+Setting permissions with absolute and symbolic modes
+I've been in IT for about 25 years, and most of that time was spent as a technical trainer. 
+That means that the things that I write are usually structured as some sort of lab or other hands-on opportunity. 
+It's just how I cover material. With that in mind, I'll assume you have a couple of identities and resources 
+to experiment with as you read the rest of the article. You can use the following commands to set up a playground. 
+hai hello this the file to derledmachinethan your pee tasks are relatively harmless.
+find the matter unioq things in this following data
+hi hello reate two new users and two new groups to work with.that you do no
+Add this to page and save as source file
+this one alos need to replece be passwords for the users in this exercije, as
+hai replace this with konfigure passwords for the users in this exercije, as
+my dear students find this and learn as explained words for the users in this exercije, as
