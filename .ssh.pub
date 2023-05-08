@@ -1,6 +1,6 @@
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDUeN1sbiXdIoGtafV13B+p8V+JmCF4GBvmLSETjqHVxzXF1tGuFaIA4MWeJAEBYE9RGMQSV3xW2HVqHHtcUqwpxsofuIn9HmjiqZu8v+CrZ2ezwHtNu6AozSYmPAcLzVtTR9WMi6ZTbYs7IS55fGWvY0wxEd2nyO1GWF05zwXpjyNVynY94ZKxxLcxNQsXlwOVeZEaudbZb54r//slcCdm4NEwRA7F0tiiWxvhpLF+yEPvbjIvYUDVt8LvtRWkI2PtAQ8Kf7jm3iinoIPhh8TlLG4pag0Ajcrrp+GxfB+ZGdzCNNHkYI2cLsn7m3eUx3NRK0ViEE5EXqs7AUPk3h5eyMUdqZvw35QkV0U4gyQlWlRIWYF5mEyfXAnCw83LE7uJP7L3P5IBNXadABqTwY2mD/Pcm8zbQr8u5Et8XBsfK/StkrjbQUL//qQA94+MzIo4BK7qROJiHHbrOSjWR3Pl3iLKWRbteM8OxrSjE6X3md7zzxLxy4byNQgQbzc13Zs= ubuntu@ip-172-31-40-117
 
-kubeadm join 172.31.32.202:6443 --token fmv5yh.dz6z1yzso36noy84 \
-        --discovery-token-ca-cert-hash sha256:3ed45476063618cef3cb5abfe067fe133e2188ae674878172bc5adea4d4c3534
+kubeadm join 172.31.7.37:6443 --token 9pau7s.1bj8xljktku4eyu6 \
+        --discovery-token-ca-cert-hash sha256:6c5cb51dfbf044e6861642d3f9f33b9e12abf578437004130440a26256b6f96f 
         
         export KUBECONFIG=/etc/kubernetes/admin.conf
